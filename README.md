@@ -29,5 +29,5 @@ pip install -r requirements.txt
 
 ## Run the script
 ```sh
-python main.py
+python blur.py
 ```
